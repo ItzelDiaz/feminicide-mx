@@ -16,7 +16,7 @@
 # -------- 0. Setup-------
 
 rm(list=ls())
-setwd("C:/Users/ditze/OneDrive - El Colegio de México A.C/ARTÍCULOS/1_Descriptive/FINALES")
+setwd("")
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(data.table, foreign, ggplot2, readr, janitor, dplyr, haven, car, expss, janitor, tidyr, tidyverse, survey, lubridate, R.utils, minpack.lm, gridExtra, Hmisc, wesanderson, openxlsx)
 
