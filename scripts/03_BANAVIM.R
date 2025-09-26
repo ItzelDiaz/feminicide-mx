@@ -19,7 +19,7 @@
 # ----------------------------------------------------------
 
 rm(list=ls())   # Clear the environment (remove all objects from memory)
-setwd("C:/Users/ditze/OneDrive - El Colegio de México A.C/ARTÍCULOS/1_Descriptive/FINALES")  # Set working directory
+setwd("")  # Set working directory
 
 # Load pacman if not installed, then load required packages
 if (!require("pacman")) install.packages("pacman")
