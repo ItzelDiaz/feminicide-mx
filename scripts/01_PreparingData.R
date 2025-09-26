@@ -17,7 +17,7 @@
 # 0. Setup
 # ----------------------------------------------------------
 rm(list=ls())
-setwd("C:/Users/ditze/OneDrive - El Colegio de México A.C/ARTÍCULOS/1_Descriptive/FINALES")
+setwd("")
 
 # Load packages
 if (!require("pacman")) install.packages("pacman")
